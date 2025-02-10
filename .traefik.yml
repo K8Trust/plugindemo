@@ -2,7 +2,7 @@ displayName: Demo Plugin
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/K8Trust/plugin-demo
+import: github.com/K8Trust/plugindemo
 
 summary: '[Demo] Add Request Header'
 

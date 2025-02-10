@@ -1,3 +1,3 @@
-module github.com/K8Trust/plugin-demo
+module github.com/K8Trust/plugindemo
 
 go 1.19

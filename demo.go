@@ -1,5 +1,5 @@
-// Package plugin-demo a demo plugin.
-package plugin-demo
+// Package plugindemo a demo plugin.
+package plugindemo
 
 import (
 	"bytes"
